@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I write Rust 🦀 and Go
+
+Contact me on tg: namn_grg
+
+
+
 <!--
 **namn-grg/namn-grg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
