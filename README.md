@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I write Rust 🦀 and Go
+I write Rust 🦀
 
 Contact me on tg: namn_grg
 
